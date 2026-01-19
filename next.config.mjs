@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  basePath: '/take-a-photo-for-your-girlfriend',
+  assetPrefix: "/take-a-photo-for-your-girlfriend-static",
   typescript: {
     ignoreBuildErrors: true,
   },
