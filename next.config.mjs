@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 
-const BLOG_URL = '10qjc-rauch-blog-git-main-1qjcs-projects.vercel.app';
+const BLOG_URL = 'https://10qjc-rauch-blog-git-main-1qjcs-projects.vercel.app';
 
 const nextConfig = {
   assetPrefix: "/take-a-photo-for-your-girlfriend-static",
